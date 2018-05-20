@@ -1,0 +1,405 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"f",
+				"form\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"lin",
+				"line"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"top",
+				"margin-top"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"ap",
+				"alpha"
+			],
+			[
+				"pd",
+				"padding"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"sc",
+				"script\tTag"
+			],
+			[
+				"fons",
+				"font-size"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"nav",
+				"nav-tabs"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"i",
+				"iframe"
+			],
+			[
+				"tex",
+				"textarea\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"text",
+				"text"
+			],
+			[
+				"FF",
+				"FFA500"
+			],
+			[
+				"texta",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"col",
+				"colspan\tAttr"
+			],
+			[
+				"P",
+				"pulpit"
+			],
+			[
+				"texa",
+				"text-align"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"htp",
+				"http-equiv\tAttr"
+			],
+			[
+				"su",
+				"sup\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"next",
+				"nextInt"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"has",
+				"hasNextInt"
+			],
+			[
+				"w",
+				"while"
+			],
+			[
+				"ha",
+				"hasNextInt"
+			],
+			[
+				"hs",
+				"hasNextInt"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"nex",
+				"nextInt"
+			],
+			[
+				"ne",
+				"nextInt"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"pu",
+				"public"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 291.0,
+		"last_filter": "in",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"i",
+				"Package Control: Install Package→安装插件"
+			]
+		],
+		"width": 594.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/html/check.html",
+		"/E/html/mysql.html",
+		"/C/Users/Library/Downloads/bootstrap-3.3.7/bootstrap-3.3.7/docs/examples/blog/blog.css",
+		"/C/Users/Library/Downloads/bootstrap-3.3.7/bootstrap-3.3.7/docs/examples/jumbotron/jumbotron.css",
+		"/C/Users/Library/Downloads/bootstrap-3.3.7/bootstrap-3.3.7/docs/examples/jumbotron/index.html",
+		"/C/Users/Library/Downloads/bootstrap-3.3.7/bootstrap-3.3.7/docs/examples/blog/index.html",
+		"/C/html/test3.html",
+		"/C/html/test4.html",
+		"/C/html/test2.html",
+		"/C/html/test1.html",
+		"/C/html/test3.htlm",
+		"/H/Java/add.java",
+		"/H/Java/nnum.java",
+		"/H/Java/three.java",
+		"/H/Java/sushu.java",
+		"/H/Java/chu.java",
+		"/H/Java/year.java",
+		"/H/Java/sum.java",
+		"/H/Java/shalou.java",
+		"/H/Java/max.java",
+		"/H/Java/helloworld.java",
+		"/H/Java/helloworld"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"container",
+			"blog-header"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Java/JavaC.sublime-build",
+	"project": "resume.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,77 @@
+.b{
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+body{
+
+    /*   text-align:center; */
+    /*   background-image: url(https://desk-fd.zol-img.com.cn/t_s960x600c5/g2/M00/09/06/Cg-4WlV6PSGIVhUHAAsfzsNIzNQAAFJcQC4Q-cACx_m282.jpg) ; */
+    /*background-size: cover;*/
+
+}
+/*[href^=https]::after{*/
+/*content: '==>';*/
+/*}*/
+.clearfix{
+    overflow: auto;
+}
+.one{
+    float: left;
+    /*margin: 0 0 0 20px;*/
+    margin-right: 40px;
+}
+.two{
+    float: left;
+    /*margin: 0 0 0 20px;*/
+    margin-right: 40px;
+}
+.three{
+    float: left;
+    /*margin: 0 0 0 20px;*/
+    margin-right: 40px;
+}
+.s p{
+    line-height: 0px;
+    float: left;
+}
+.s .b{
+    float: left;
+}
+
+.resume{
+    background: #8A8A8A;
+    color: white;
+    padding: 10px 0 10px 0;
+    font-size: 16px;
+}
+h1{
+    margin-left: 20px;
+}
+.h h2{
+    float: left;
+    width: 10%;
+    background: #C1CDCD ;
+    text-align: center;
+    padding: 40px 0 40px 0;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.text p{
+    margin-left: 20px;
+}
+.h h2{
+   border-bottom-style: solid;
+    border-color: azure;
+    border-width: 1px;
+}
+ .text{
+     /*padding: 0px 0 110px 0;*/
+     border-bottom-style: solid;
+     border-right-style: solid;
+     border-width: 1px;
+     border-color: #C1CDCD;
+     height: 110px;
+}
+
+
